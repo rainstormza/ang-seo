@@ -4,6 +4,7 @@ ng g c home --module=app.module.ts
 # to run
 npm start
 
+ref : https://coursetro.com/posts/code/68/Make-your-Angular-App-SEO-Friendly-(Angular-4-+-Universal)
 ----------------
 
 # Ang4Seo
