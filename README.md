@@ -1,3 +1,11 @@
+# to generate component
+ng g c home --module=app.module.ts
+
+# to run
+npm start
+
+----------------
+
 # Ang4Seo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
